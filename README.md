@@ -1,7 +1,7 @@
 
 # Flutter Assessment with Riverpod
 
-A Flutter app that uses the "Dummy Json" api.
+A Flutter app that uses the "Firebase" api.
 
 ### Features
 
@@ -87,7 +87,7 @@ Communicates directly with the `Providers` from the domain layer.
 
 ##### Clone this repository
 
-` git clone https://github.com/Uuttssaavv/flutter-clean-architecture-riverpod`
+` git clone  https://github.com/toor-deep/assessment.git
 
 ##### Go to the project directory
 
