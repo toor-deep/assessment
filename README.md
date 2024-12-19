@@ -1,7 +1,7 @@
 
 # Flutter Assessment with Riverpod
 
-A Flutter app that uses the "Dummy Json" api.
+A Flutter app that uses the "Firebase" api.
 
 ### Features
 
